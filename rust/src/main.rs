@@ -11,7 +11,7 @@
 //!
 //! #[allow(unused_variables)]
 //! fn main() {
-//! let a = vec![1i64; 10];
+//! let mut a = vec![1i64; 10];
 //! let b = hoge(&a);
 //! a[3] = 3;
 //! }
